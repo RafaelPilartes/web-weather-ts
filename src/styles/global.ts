@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
     outline: none;
   }
   body {
-    background: ${({ theme }) => theme.colors['brand-primary-dark']};
+    background: ${({ theme }) => theme.colors['base-background']};
     color: ${({ theme }) => theme.colors['base-text']};
     -webkit-font-smoothing: antialiased;
   }

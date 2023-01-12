@@ -17,7 +17,7 @@ export const FooterContainer = styled.footer`
     p {
       font-size: 0.9rem;
       font-weight: 400;
-      color: ${({ theme }) => theme.colors['brand-primary-light']};
+      color: ${({ theme }) => theme.colors['brand-primary']};
     }
   }
 `

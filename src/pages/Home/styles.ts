@@ -10,7 +10,11 @@ export const HomeContainer = styled.section`
   .container {
     width: 100%;
     max-width: 38rem;
-    padding: 0 1.6rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 
     padding: 2rem 0;
 

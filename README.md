@@ -10,6 +10,7 @@ Fui utilizado conceitos um pouco mais avançados desenvolvendo do zero uma aplic
 - Styled Components
 - Typescript
 - OpenWeather API
+- GeoDB Cities
 - Context API
 - React Router Dom
 - Custom hooks
@@ -17,6 +18,7 @@ Fui utilizado conceitos um pouco mais avançados desenvolvendo do zero uma aplic
 ## 👨‍💻 Funcionalidades:
 
 - Ver dados climáticos de qualquer cidade do mundo
+- Dados climáticos Diárias
 
 <br />
 
