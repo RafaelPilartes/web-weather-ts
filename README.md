@@ -4,6 +4,12 @@
 
 Fui utilizado conceitos um pouco mais avançados desenvolvendo do zero uma aplicação de clima, que usa uma #API para trazer os dados climáticos 🔅!
 
+## 🌐 Deploy
+
+<a href='https://weather-rp.netlify.app/'>
+  Ir para o site "Weather"
+</a>
+
 ## 🛠️ Nesse projeto foi utilizado
 
 - Vite
